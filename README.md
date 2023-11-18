@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zaidzac95
-- 👀 I’m interested in Cybersecurity/blockchain/cryptocurrency
-- 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on the development of cybersecurity of cryptocurrency 
-- 📫 How to reach me? you can add me on my social on twitter 
+- 👋 Hi, I’m Zaid Zac 
+- 👀 I’m interested in AI/Unity/Crypto/ARVR/Strategy/Agile/ProjectManagement 
+- 🌱 I’m currently building a business leveraging conversational AI with real character emotions 
+- 💞️ I’m looking to collaborate on the development of Singapore's first AI-powered "chatbot" in the private education sector 
+- 📫 How to reach me? you can add me on my social on Linkedin 
 
 <!---
 zaidzac95/zaidzac95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
