@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zaid Zac 
 - 👀 I’m interested in AI/Unity/Crypto/ARVR/Strategy/Agile/ProjectManagement 
-- 🌱 I’m currently building a business leveraging conversational AI with real character emotions 
+- 🌱 I’m currently building a product leveraging conversational AI with real character emotions 
 - 💞️ I’m looking to collaborate on the development of Singapore's first AI-powered "chatbot" in the private education sector 
 - 📫 How to reach me? you can add me on my social on Linkedin 
 
